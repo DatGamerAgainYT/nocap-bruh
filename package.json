@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "canvas": "^2.9.3"
+  },
+  "name": "nocap-bruh",
+  "version": "1.0.4",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "DatGamerAgainYT#0466",
+  "license": "MIT",
+  "devDependencies": {},
+  "description": "A captcha creator for node.js",
+  "keywords": [
+    "captcha"
+  ]
+}
