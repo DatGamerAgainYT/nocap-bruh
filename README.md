@@ -1,5 +1,6 @@
 # nocap-bruh
 A captcha module for NodeJS.
+Note: This was made for fun and probably should not be used for security measures.
 
 # Example
 ```js
